@@ -30,3 +30,4 @@ def printBoard(board):
     print(*bar, sep=" ")
 
 printBoard(sampleBoard)
+
